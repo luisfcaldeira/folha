@@ -1,0 +1,2 @@
+Requirement already satisfied: portalocker in d:\projetos\python\artigos\venv\lib\site-packages (2.8.2)
+Requirement already satisfied: pywin32>=226 in d:\projetos\python\artigos\venv\lib\site-packages (from portalocker) (306)
